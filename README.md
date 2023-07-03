@@ -43,6 +43,6 @@ Opções de temperatura disponíveis:
 
 ## ScreenShots
 
-![Menu](assets/images/screenshots/menu.png "Menu")
+![Menu](assets/images/screenshots/menu.png "Menu") \
 ![Conversor de moedas](assets/images/screenshots/currency_conversor.png "Conversor de moedas")
 ![Conversor de temperatura](assets/images/screenshots/temperature_conversor.png "Conversor de temperatura")
